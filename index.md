@@ -16,4 +16,4 @@ I'm happy to say I've successfully finished this in-class exercise! Everything w
 
 The only thing that gave me trouble was PDF transformations, but less for lack of knowledge and more for technological interference. After some intensive troubleshooting, we updated my settings and managed to get things working. When in doubt, head to Google!
 
-I'm also unsure why the image isn't linking in the HTML exercise, as I'm almost certain I've linked it correctly, but something doesn't seem to have gone to pan.
+I'm also unsure why the image isn't linking in the HTML exercise, as I'm almost certain I've linked it correctly, but something doesn't seem to have gone to pan. Github is, as usual, slow to push changes.
