@@ -9,7 +9,7 @@ At the end of the class you can write here a final thought on the exercise and o
 
 - [Link to my GitHub Repository for today](https://www.github.com/kes151/DHExercise) and [GitHub Pages](/DHExercise)
 - [Link to my HTML and CSS files](/DHExercise/exercise2.html)
-- [Link to Pandoc transformations]()
+- [Link to Pandoc transformations](/DHExercise/pandoc_transformations.zip)
 - [Link to my Bibliography](/DHExercise/bibliography.html)
 
 ## Comments or notes about problems 
