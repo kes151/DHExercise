@@ -3,7 +3,7 @@
 
 Thursday March 2nd, 2023 
 
-At the end of the class you can write here a final thought on the exercise and on the work that we have been doing so far. 
+I'm happy to say I've successfully finished this in-class exercise! Everything was as expected-- we've practiced these skills in the tutorials-- so it was good to put them in practice.
 
 ## Links to the exercises done today 
 
@@ -14,4 +14,4 @@ At the end of the class you can write here a final thought on the exercise and o
 
 ## Comments or notes about problems 
 
-Here...
+The only thing that gave me trouble was PDF transformations, but less for lack of knowledge and more for technological interference. After some intensive troubleshooting, we updated my settings and managed to get things working. When in doubt, head to Google!
